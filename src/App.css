@@ -1,7 +1,9 @@
 .App {
   text-align: center;
-  background : rgba(0, 0, 0, 0.226)
+  background :rgb(216, 216, 216)
 }
+
+
 
 .App-header {
   background-color: #282c34;
@@ -94,7 +96,7 @@ body{
 
 .addMovie {
   border-radius: 2em 4em !important;
-background-color: cornflowerblue !important;
+  background-color: cornflowerblue !important;
   color: black !important;
   border: 1px solid black !important;
   font-family: Georgia, 'Times New Roman', Times, serif !important;
@@ -120,6 +122,32 @@ background-color: cornflowerblue !important;
 .urll{
    font-family: Georgia, 'Times New Roman', Times, serif;
 }
+
+.movieDetails{
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-style: italic;
+
+}
+
+.movieTitle{
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-style: italic;
+}
+
+.btnn{
+  margin-top: 20px;
+   border-radius: 2em 4em;
+   font-family: Georgia, 'Times New Roman', Times, serif;
+   background-color: cornflowerblue;
+   color: black;
+   border: 1px solid black;
+
+
+
+}
+
+
+
 
 
 
